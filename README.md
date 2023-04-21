@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**DerekMalone/DerekMalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 I am a passionate software developer with a talent for problem-solving and <br>finding innovative solutions. As a former ceramic artist, I have honed my skills in critical <br>thinking and attention to detail, which I apply to my work as a developer. I am committed <br>to continuous learning, always striving to expand my knowledge and stay up-to-date with <br>the latest industry trends. My creativity and dedication to excellence make me a valuable <br>asset to any team.<br>
 
